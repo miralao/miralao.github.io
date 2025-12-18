@@ -1,0 +1,1 @@
+The **African Union** is an international organization and one of the [world superpowers](../World/Superpowers.md). It was founded in 0 AU.

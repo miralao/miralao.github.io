@@ -1,15 +1,14 @@
-[Earth<sup>5656</sup>](../Universe/Earth5656.md)'s recorded history begins with **[Red's Intervention](RedsIntervention.md)** in 5656 [BU](Eras.md).
-
-## Timeline
-#### 4,004,004,000 BC
-Creation of the universe.
-#### 4000 BC
+# Timeline
+[Earth<sup>5656</sup>](../Universe/Earth5656.md)'s recorded history begins with [Blue's Intervention](BluesIntervention.md) in 5656 [BU](Eras.md).
+#### 4,004,004,004 BU
 Creation of Earth.
-#### 999 BC
+#### 5656 BU
+[Red's Intervention](RedsIntervention.md).
+#### 999 BU
 Earth9 splits from Earth3.
-#### 1 AD
+#### 4 BU
 Jesús Christ is born.
-#### 4 AD/0 AU
+#### 0 AU
 African Union established, spanning from Istanbul to Lagos.
 #### 8 AU
 Moana founds the Realm of Polynesia.
@@ -28,7 +27,7 @@ The Holy Passage—Moana brings Jesús to Te-Fiti in Nepal and finally reunites 
 #### 166 AU
 Great War ends with a stalemate. Romans rule the Sahara, but Africa has taken Southern Europe. The two kingdoms have switched capitals— Rome’s capital is in Casablanca, while Africa’s is in Madrid.
 #### 1066
-Norman Conquest. Napoleon I seizes Great Britain and, by extension, much of Americá.
+The Norman Conquest is thwarted by the Celts, the Greens, and the Norse Force. The three kingdoms unite into the United Kingdom of the Green.
 #### December 7, 1088
 Shay’s Rebellion begins with the Burning of the French Flag.
 #### 1099
@@ -37,6 +36,14 @@ Americá surrenders at San Francisco, Califas.
 Holy Roman Empire established by the Pope.
 #### 1222
 Holy Roman Empire splits to become the Great Western Empire and the Mongols.
+#### 1399
+The Industrial Revolution happens, spreading from the Joseon Dynasty to Japan and then through the Bering Commonwealths and the Pacific Union.
+#### 1492
+Christopher Colombus is crucified by the Maya Army and the knight Hiro Bluetooth, who anticipated and prophecized his arrival.
+
+The Spaniards are pursued back across the Atlantic by the Aztecá armada and some opportunistic Joseon and Brazilian pirates.
+#### 1542
+The Holy Romanorman Coalition finally forces Corea-Mongolia out of Europe with thermonuclear weapons.
 #### 1616
 Micronesian Empire seizes Japan, but is thwarted by the Joseon Dynasty.
 #### 1776
