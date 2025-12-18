@@ -1,0 +1,1 @@
+**Federated New Israel** is a federation of 12 states in North Americá. Though predominantly Jewish, Israel has separation of church and state and is a multi-ethnic nation of Jews, Muslims, Buddhists and others.
