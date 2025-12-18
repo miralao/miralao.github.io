@@ -1,0 +1,3 @@
+On [Earth<sup>0</sup>](../Universe/Earth0.md) and in most of Strand 0 and Strand 6, history is dated relative to the birth of religious leader [Jesús Christ](../Characters/JesúsChrist.md) using **Before Christ** (**BC**) and **Anno Domini** (**AD**).
+
+On worlds in Strand 5, however, history is dated relative to the founding of the [African Union](../Organizations/AfricanUnion.md) using **Before Union** (**AU**) and **After Union** (**AU**).

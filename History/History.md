@@ -1,4 +1,6 @@
-# Timeline
+[Earth<sup>5656</sup>](../Universe/Earth5656.md)'s recorded history begins with **[Red's Intervention](RedsIntervention.md)** in 5656 [BU](Eras.md).
+
+## Timeline
 #### 4,004,004,000 BC
 Creation of the universe.
 #### 4000 BC
