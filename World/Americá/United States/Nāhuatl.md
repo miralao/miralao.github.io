@@ -1,5 +1,5 @@
 # Nāhuatl
-The **United States of Nāhuatl** is a federation of 50 states in North Americá, and one of the [superpowers](https://miralao.github.io/World/Superpowers.md) of the world.
+The **United States of Nāhuatl** is a federation of 50 states in North Americá, and one of the [colonials](https://miralao.github.io/World/colonials.md) of the world.
 
 Each **Free and Sovereign State** is divided into multiple **counties** and counties into **cities**, **municipalities**, and **unincorporated areas**. Multiple states are grouped into each **Interstate Compact**, which pool their resources to build basic infrastructure and cover natural disasters.
 

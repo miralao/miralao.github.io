@@ -1,1 +1,0 @@
-The ''Monarchy of the Great West'' is a socialist kingdom made up of Portugal, Morocco, and their remaining colonies.
