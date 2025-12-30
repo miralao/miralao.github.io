@@ -1,1 +1,0 @@
-The **Federated Free Cities of Earth**, formerly the **Free Cities of Asia**, are a global federation of small, independent cities and nations.

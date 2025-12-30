@@ -1,1 +1,0 @@
-The **African Union** is an international organization founded in 0 AU.

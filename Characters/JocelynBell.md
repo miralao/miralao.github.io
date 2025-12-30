@@ -1,1 +1,0 @@
-**Jocelyn Bell** discovered in 1967 what she called "**Calcutta stars**", or **black holes**.

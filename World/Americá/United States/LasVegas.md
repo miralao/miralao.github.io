@@ -1,1 +1,0 @@
-**Las Vegas** is a city in Nevada, population 4.2 million.

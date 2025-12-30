@@ -1,1 +1,0 @@
-**Kansas City** is the capital of the [United States](./Nāhuatl.md).

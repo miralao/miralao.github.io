@@ -1,2 +1,0 @@
-# Blue
-**Captain Krishna** is the 10th and current incarnation of **Blue** and one of the two commanders of the [Violet](https://miralao.github.io/Organizations/VioletCommission.md), along with [Blue](https://miralao.github.io/Characters/Blue.md).

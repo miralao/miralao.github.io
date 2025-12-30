@@ -1,2 +1,0 @@
-# The Green
-The ''United Kingdom of the Green'' is the monarchy united from Greeland, Iceland, Eire, England and Wales, and Danmark to form one of the [colonials](https://miralao.github.io/World/colonials.md)
